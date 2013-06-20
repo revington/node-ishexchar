@@ -1,3 +1,5 @@
+[![build status](https://secure.travis-ci.org/d3media/node-ishexchar)](http://travis-ci.org/d3media/node-ishexchar)
+
 node-ishexchar
 ==============
 
